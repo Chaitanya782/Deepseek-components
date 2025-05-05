@@ -1,7 +1,3 @@
-Thanks! Here's a refined version of the `README.md` tailored specifically to your Kaggle notebook setup, where **each notebook implements and explains one individual component** of the DeepSeek architecture:
-
----
-
 # 🧠 DeepSeek Components – Illustrated in Python
 
 This repository is a collection of **Kaggle Notebooks**, each focused on implementing and explaining **one specific component** of transformer architectures, with a strong emphasis on **DeepSeek**-style enhancements.
